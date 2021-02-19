@@ -13,14 +13,11 @@ Checkout my profile for some great projects.
 ## 💬 Thinking about ...
 
 - Elon musks projects
-- how does bubble sort work
 - melody itni chocolaty kyu hai
 
 ## 🌱 I’m currently learning ...
 
-- Quasar Framework
 - Go Lang
-- SSR
 
 ## 📫 How to reach me: ...<br>
 
@@ -33,4 +30,4 @@ Checkout my profile for some great projects.
 ## 💻 Checkout my stats ...
 
 [![Shreesh's github stats](https://github-readme-stats.vercel.app/api?username=sgkul2000&show_icons=true&line_height=60&count_private=true&hide=stars,prs&theme=radical)](https://github.com/sgkul2000/)
-[![Shreesh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sgkul2000&line_height=40&show_icons=true&theme=radical)](https://github.com/sgkul2000/)
+[![Shreesh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sgkul2000&line_height=40&show_icons=true&theme=radical&hide=CSS,HTML,Handlebars&langs_count=8)](https://github.com/sgkul2000/)
