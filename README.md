@@ -1,33 +1,43 @@
-# Namaste 🙏🏻
+<div align="center">
 
-I am _Shreesh_ - a student at the [National Institute of Engineering](https://nie.ac.in) and a Full Stack Web Developer. I am enthusiastic about learning new technologies and discovering the potential of computers.
-Checkout my profile for some great projects.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-## 😍 What do i love ...
+# Hey, I'm Shreesh 👋
 
-- Pokemon
-- Game of Thrones
-- Programing
-- Music
+**`MSCS @ Northeastern University | Ex-SDE @ Lowe's | Building things that talk to databases and occasionally talk back`**
 
-## 💬 Thinking about ...
+[![Portfolio](https://img.shields.io/badge/shreesh.me-000?style=for-the-badge&logo=vercel&logoColor=white)](https://shreesh.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kulkarnishreesh)
 
-- Elon musks projects
-- melody itni chocolaty kyu hai
+</div>
 
-## 🌱 I’m currently learning ...
+---
 
-- Go Lang
+### 🧠 What I'm up to
 
-## 📫 How to reach me: ...<br>
+- 🎓 Pursuing my **MS in Computer Science** at Northeastern (Khoury College), 4.0 GPA
+- 🔍 Looking for **co-op/internship roles** (Apr to Dec 2026)
+- 🔬 Currently deep in **AI agents, RAG pipelines, and MCP servers**. Making LLMs do useful things instead of just vibing
+- ☕ Mass caffeine consumer based in **Boston**
+- ⚡ Fun fact: I taught **100+ students blockchain** before it was uncool again
 
-[![Shreesh's instagram](https://img.shields.io/static/v1?label=Website&message=Checkout&color=orange&style=for-the-badge)]()
-[![Shreesh's instagram](https://img.shields.io/static/v1?label=instagram&message=Follow&color=pink&style=for-the-badge)]()
-[![Shreesh's instagram](https://img.shields.io/static/v1?label=E-Mail&message=Mail&color=red&style=for-the-badge)]()
-[![Shreesh's instagram](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=blue&style=for-the-badge)]()
-[![Shreesh's instagram](https://img.shields.io/static/v1?label=Dev.to&message=Follow&color=purple&style=for-the-badge)]()
+---
 
-## 💻 Checkout my stats ...
+### 🛠️ Tech Stack
 
-[![Shreesh's github stats](https://github-readme-stats.vercel.app/api?username=sgkul2000&show_icons=true&line_height=60&count_private=true&hide=stars,prs&theme=radical)](https://github.com/sgkul2000/)
-[![Shreesh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sgkul2000&line_height=40&show_icons=true&theme=radical&hide=CSS,HTML,Handlebars&langs_count=8)](https://github.com/sgkul2000/)
+```text
+Languages    → JavaScript, TypeScript, Python, Java, Go, SQL, R, C++
+Frontend     → React, Next.js, Vue.js, Svelte, D3.js
+Backend      → FastAPI, Flask, Express.js, Spring Boot, Django
+AI/ML        → LangChain, RAG Pipelines, PyTorch, MCP, Anthropic API, OpenAI API
+Databases    → PostgreSQL, MongoDB, MySQL, Pinecone
+Infra        → Docker, Kubernetes, AWS, Helm, Jenkins, Podman
+```
+
+---
+
+<div align="center">
+
+*I built a tool that lets AI talk to my database. Now it knows my schema better than I do. Career choices were made.*
+
+</div>
